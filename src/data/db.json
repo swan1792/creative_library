@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Eloquent javascript",
+      "description": "Best JS book",
+      "categories": [
+        "Javascript",
+        "Programming"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Laravel from scratch",
+      "description": "Best PHP framework book",
+      "categories": [
+        "PHP",
+        "Programming",
+        "Laravel"
+      ]
+    },
+    {
+      "id": "20cc",
+      "title": "Book_1",
+      "description": "Book_1 is created by Swan Htet Naing",
+      "categories": [
+        "History"
+      ]
+    },
+    {
+      "id": "1f89",
+      "title": "Book_2",
+      "description": "Book_2 is full of knowledge and description",
+      "categories": [
+        "Good",
+        "Good"
+      ]
+    }
+  ]
+}
