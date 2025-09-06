@@ -1,0 +1,37 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  transition: background-color 0.3s, color 0.3s; /* Smooth transitions */
+}
+
+/* Light Theme */
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Dark Theme */
+.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* Specific styles for navbar and other elements based on the theme */
+.light .navbar {
+  background-color: #f9f9f9;
+}
+
+.dark .navbar {
+  background-color: #333;
+}
+
+/* Example of theme-specific button styles */
+.light .theme-toggle-btn {
+  background-color: #f0f0f0;
+  color: #000;
+}
+
+.dark .theme-toggle-btn {
+  background-color: #333;
+  color: #fff;
+}
